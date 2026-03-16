@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAURABH CHAUDHARI</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
-- 🔭 I’m currently working on [Redpluse](https://github.com/Saurabh4611/REDPLUSE.git)
+- 🔭 I’m currently working on [Parkkaro](https://github.com/Saurabh4611/REDPLUSE.git)
 
 - 🌱 I’m currently learning **React.js , Spring**
 
